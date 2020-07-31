@@ -9,5 +9,5 @@ Contains Python notes
 
 
 # Link of this course
-(Course Link)[https://www.udemy.com/course/complete-python-bootcamp/]
+[Course Link](https://www.udemy.com/course/complete-python-bootcamp/)
 
